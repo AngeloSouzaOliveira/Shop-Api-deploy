@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'shopapibrasil'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_36bfb1a10bcf43f69126b5f24ff08ced }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_68b62fc1a05a44abaf1e302e248884da }}
         package: .
